@@ -129,7 +129,7 @@ Use Live Server on `predict.html` or simply open in browser.
 ## 📬 Contact & Credits
 
 - 💻 Developed by: Sankalp Rana
-- 🌐 GitHub: [github.com/sankalprana](https://github.com/sankalprana)
+- 🌐 GitHub: (https://github.com/vasu2150rana)
 - 📍 University: Chitkara, India
 
 ---
